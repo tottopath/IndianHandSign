@@ -25,6 +25,9 @@ Creating new model:
 •	Model contains the model developed using https://teachablemachine.withgoogle.com/train/image
 ![image](https://github.com/tottopath/IndianHandSign/assets/57607554/345c3769-65f5-44d1-a8b6-4567e9a8eb9c)
 ![image](https://github.com/tottopath/IndianHandSign/assets/57607554/61a6049b-1497-44aa-9e75-836ba9d1e5d6)
-o	Once created, Download the Keras model 
+
+•	Once created, Download the Keras model 
+
 ![image](https://github.com/tottopath/IndianHandSign/assets/57607554/4bb78f8f-939b-4e62-b0b7-ea3efb8272a0)
-o	Copy paste the models in Model folder
+
+•	Copy paste the models in Model folder
