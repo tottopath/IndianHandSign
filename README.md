@@ -13,15 +13,21 @@ Explanation:
 
 How to run:
 •	Open the folder in Visual Studio
+
 •	Run the v11.py file
+
 •	Any signs recognized will be added to Speak.txt
 
 How to add or make your own data:
 •	Open twohandDC.py
+
 •	In line 13. folder = "Data/Thanks" change it to whatever word you want, Data/xyz
+
 •	Go to the Data folder and create the new folder xyz
 Creating new model:
+
 •	Data contains folders for each letter or gesture. Example: Hello, ILY, No, Thanks and Yes
+
 •	Model contains the model developed using https://teachablemachine.withgoogle.com/train/image
 ![image](https://github.com/tottopath/IndianHandSign/assets/57607554/345c3769-65f5-44d1-a8b6-4567e9a8eb9c)
 ![image](https://github.com/tottopath/IndianHandSign/assets/57607554/61a6049b-1497-44aa-9e75-836ba9d1e5d6)
