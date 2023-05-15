@@ -42,6 +42,7 @@ Creating new model:
 
 
 Working:
+
 ![1](https://github.com/tottopath/IndianHandSign/assets/57607554/561ea501-7a07-4b9f-9f55-4d41e35fbea5)
 ![2](https://github.com/tottopath/IndianHandSign/assets/57607554/26b2712a-522d-438b-8a43-306a952b03fe)
 ![3](https://github.com/tottopath/IndianHandSign/assets/57607554/281846db-28f8-41b9-992b-08a23adf91fa)
@@ -49,6 +50,7 @@ Working:
 ![5](https://github.com/tottopath/IndianHandSign/assets/57607554/d9912ef8-4677-4992-870b-f90648df6f1c)
 
 End Result:
+
 ![6](https://github.com/tottopath/IndianHandSign/assets/57607554/19b1cf36-1dc2-4b66-ab3f-6474479f8dcf)
 
 
