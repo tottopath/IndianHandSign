@@ -12,6 +12,7 @@ Explanation:
 
 
 How to run:
+
 •	Open the folder in Visual Studio
 
 •	Run the v11.py file
@@ -19,6 +20,7 @@ How to run:
 •	Any signs recognized will be added to Speak.txt
 
 How to add or make your own data:
+
 •	Open twohandDC.py
 
 •	In line 13. folder = "Data/Thanks" change it to whatever word you want, Data/xyz
